@@ -202,7 +202,7 @@ For other platforms, refer to the [Next.js deployment documentation](https://nex
 
 ## Credits
 
-- Design & Development: [Achyut Katiyar](https://github.com/MaxAllen)
+- Design & Development: [MaxAllen](https://github.com/MaxAllen687)
 - UI Components: [shadcn/ui](https://ui.shadcn.com/)
 - Icons: [Lucide React](https://lucide.dev/)
 - Animation: [Framer Motion](https://www.framer.com/motion/)
