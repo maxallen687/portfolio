@@ -36,7 +36,7 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
           {/* About Section */}
           <div className="space-y-4">
-            <h3 className="text-lg font-bold">Achyut Katiyar</h3>
+            <h3 className="text-lg font-bold">Max Allen</h3>
             <p className="text-sm text-muted-foreground max-w-xs">
               Full Stack Developer & Machine Learning Enthusiast based in Boston,
               specialized in creating modern web applications and blockchain solutions.
@@ -140,7 +140,7 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center text-sm text-muted-foreground">
               <Copyright className="mr-1 h-3.5 w-3.5" />
-              <span>{new Date().getFullYear()} Achyut Katiyar. All rights reserved.</span>
+              <span>{new Date().getFullYear()} Max Allen. All rights reserved.</span>
             </div>
             <div className="text-sm text-muted-foreground flex items-center gap-1.5">
               <span>Built with</span>
