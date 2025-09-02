@@ -59,6 +59,7 @@ export const skills: Record<SkillCategory, Skill[]> = {
   'Blockchain/Web3': [
     { name: 'Web3.js', category: 'Blockchain/Web3', logoKey: 'javascript' },
     { name: 'Ethers.js', category: 'Blockchain/Web3', logoKey: 'ethereum' },
+    { name: 'Solana', category: 'Blockchain/Web3', logoKey: 'solana' },
     { name: 'IPFS', category: 'Blockchain/Web3', logoKey: 'ipfs' },
     { name: 'Polygon', category: 'Blockchain/Web3', logoKey: 'polygon' },
     { name: 'Ethereum', category: 'Blockchain/Web3', logoKey: 'ethereum' },
