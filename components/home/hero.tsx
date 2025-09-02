@@ -174,16 +174,6 @@ export function Hero() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-{/*             <div className="relative aspect-square w-full max-w-md overflow-hidden rounded-full">
-              <Image
-                src="/images/profile.jpg"
-                alt="Max Allen"
-                fill
-                className="object-cover"
-                priority
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-            </div> */}
           </motion.div>
         </div>
       </div>
