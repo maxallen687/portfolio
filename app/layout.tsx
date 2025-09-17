@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/images/og-image.jpg",
+        url: "/images/og1-image.jpg",
         width: 1200,
         height: 630,
         alt: "Max Allen - Portfolio",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/favicon.ico" },
-      { url: "/icon.png", type: "image/png" },
+      { url: "/icon.png", type: "image1/png" },
     ],
     apple: { url: "/apple-touch-icon.png" },
   },
