@@ -3,7 +3,7 @@ import { ClientLayout } from "./client-layout";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Max Allen | Full Stack Developer",
+  title: "Max Allen | Full Stack and Blockchain Developer",
   description: "Full Stack Developer & Machine Learning Enthusiast with expertise in Next.js, React, and blockchain technologies.",
   metadataBase: new URL("https://maxallen.vercel.com"),
   
@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "https://maxallen.vercel.com",
-    title: "Max Allen | Full Stack Developer",
-    description: "Full Stack Developer & Blockchain and Machine Learning Enthusiast with expertise in Next.js, React, and blockchain technologies.",
+    title: "Max Allen | Full Stack and Blockchain Developer",
+    description: "Full Stack and Blockchain Developer & Blockchain and Machine Learning Enthusiast with expertise in Next.js, React, and blockchain technologies.",
     siteName: "Max Allen",
     locale: "en_US",
     images: [
