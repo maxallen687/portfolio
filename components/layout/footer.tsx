@@ -13,8 +13,6 @@ export function Footer() {
     switch (iconName) {
       case "github":
         return <Github className="h-5 w-5" />;
-      case "linkedin":
-        return <Linkedin className="h-5 w-5" />;
       case "mail":
         return <Mail className="h-5 w-5" />;
       case "phone":
@@ -38,7 +36,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-bold">Max Allen</h3>
             <p className="text-sm text-muted-foreground max-w-xs">
-              Full Stack Developer & Machine Learning Enthusiast based in Boston,
+              Full Stack and Blockchain Developer & Machine Learning Enthusiast based in Boston,
               specialized in creating modern web applications and blockchain solutions.
             </p>
           </div>
