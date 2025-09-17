@@ -13,12 +13,6 @@ export interface SocialLink {
       icon: "github"
     },
     {
-      id: "linkedin",
-      name: "LinkedIn",
-      url: "https://www.linkedin.com/in/achyutkatiyar2103/",
-      icon: "linkedin"
-    },
-    {
       id: "email",
       name: "Email",
       url: "mailto:maxallen03919@gmail.com",
@@ -27,7 +21,7 @@ export interface SocialLink {
     {
       id: "phone",
       name: "Phone",
-      url: "tel:+18575766733",
+      url: "+19496855858",
       icon: "phone"
     }
   ];
